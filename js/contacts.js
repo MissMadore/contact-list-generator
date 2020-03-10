@@ -17,10 +17,10 @@ var peeps = [
     tel: '+55551234',
     loc: [81604000, 740550000]
   },
-  {
-    name: 'Buddy Stardust',
-    email: 'thebuuuuud@star.com',
-    tel: '+55555123',
-    loc: [12345678, 01234567]
-  }
+  // {
+  //   name: 'Buddy Stardust',
+  //   email: 'thebuuuuud@star.com',
+  //   tel: '+55555123',
+  //   loc: [12345678, 01234567]
+  // }
 ];
